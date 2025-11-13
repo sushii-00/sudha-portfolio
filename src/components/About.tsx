@@ -15,17 +15,9 @@ export function About() {
         
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
+
             <p className="text-muted-foreground">
-              I am a data science and machine learning practitioner with hands-on experience building real-world AI systems, 
-              including multi-agent LLM workflows, RAG pipelines, and computer-vision–based projects. 
-              I enjoy turning complex problems into simple, scalable solutions that create real business value.
-            </p>
-            <p className="text-muted-foreground">
-              I’ve built AI systems including multi-agent LLM workflows, OCR pipelines, and face recognition modules. 
-              My experience spans NLP, RAG, and end-to-end ML development with Python, LangChain, and OpenCV. 
-            </p>
-            <p className="text-muted-foreground">
-              I’m now seeking data science and ML roles where I can apply these skills to real business problems.
+              I’m seeking data science and ML roles where I can apply my skills to real business problems.
             </p>
             
             <div className="flex flex-wrap gap-3">
