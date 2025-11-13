@@ -1,7 +1,5 @@
 
-  # Data Science Portfolio Website (Community)
-
-  This is a code bundle for Data Science Portfolio Website (Community). The original project is available at https://www.figma.com/design/J9YjJecnqBKc2SK0ft7AQx/Data-Science-Portfolio-Website--Community-.
+  # Data Science Portfolio Website - Sudha Nippani 
 
   ## Running the code
 
