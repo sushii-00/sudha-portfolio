@@ -10,8 +10,19 @@ export const researchItems = [
     link: "https://link.springer.com/chapter/10.1007/978-981-19-7615-5_37",
     cta: "View Publication",
   },
-  {
+    {
     id: "2",
+    title: "High rainfall event identification using remote sensing satellite data integrated with a hybrid deep learning framework",
+    venue: " Proceedings of the Indian National Science Academy (Springer Nature)",
+    year: 2022,
+    description:
+      "A hybrid deep-learning model (GRU + BiLSTM) is developed to accurately estimate daily rainfall in Silonijan, Assam using multivariate IMD data, achieving strong MAE/RMSE performance and showing promise for reliable flood- and drought-related forecasting.",
+    link: "https://link.springer.com/article/10.1007/s43538-024-00286-x",
+    cta: "View Publication",
+
+  },
+  {
+    id: "3",
     title: "JoyBot: RASA-Trained Chatbots to Provide Mental Health Assistance for Australians",
     venue: "International Journal of Machine Learning, Vol. 13, No. 3, July 2023 ",
     year: 2022,
